@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\core\location\LocationBehaviour.cs">
+    <Files>
+      <File FileName="..\..\HungryBeaver\HungryBeaver\assets\StartBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\core\location\LocationBehaviour.cs" Line="9" Column="3" />
+      <File FileName="Assets\Scripts\com\chimera\ChimeraWorld.cs" Line="127" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
